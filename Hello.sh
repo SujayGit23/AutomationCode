@@ -7,4 +7,5 @@ do
 		break
 	fi
 	((count++))
+	Print "Hello
 done
